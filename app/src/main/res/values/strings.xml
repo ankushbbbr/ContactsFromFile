@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="hello">- here the contacts list</string>
+    <string name="viewButton">View Contacts</string>
+    <string name="createButton">Add Contact</string>
+    <string name="updateButton">Modify Contact</string>
+    <string name="deleteButton">Delete Contact</string>
+
+</resources>
